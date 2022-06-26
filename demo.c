@@ -2,6 +2,6 @@
 int main()
 {
 	int a=10;
-	printf("value of A = %d/n",a); # commented in the remote
+	printf("value of A = %d/n",a); // commented in the local
 }
 
