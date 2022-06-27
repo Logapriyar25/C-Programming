@@ -1,5 +1,5 @@
 #include<stdio>
-#include<limits.h>
+#include<limits.h> //to determine the set limits of variable data types
 #include<float.h>
 int main()
 {
