@@ -1,0 +1,20 @@
+/*  Any integer is input through the keyboard. Write a program to find out whether it is an odd number or even number.
+(Hint: Use the % operator)
+ */
+
+#include<stdio.h>
+int main()
+{
+    int n;
+    printf("\nEnter the values : ");
+    scanf("%d",&n);
+    if(n%2==0)
+    {
+        printf("\n%d is Even Number",n);
+    }
+    else
+    {
+        printf("\n%d is Odd Number",n);
+    }
+    return 0;
+}
